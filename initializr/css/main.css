@@ -1,22 +1,29 @@
+.jumbotron h1{
+  text-align: center; /* centers header text */
+}
 
+.panel{
+  border: 10px solid pink; /* makes borders thick and pink */
+}
 
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
+.panel-default>.panel-heading{
+  background-color: purple;
+  background-image: none; /* makes top panel border purple */
+}
 
+.panel-title {
+  color: lightblue; /* changed panel titles to light blue */
+}
 
+p{
+  color: white; /*changed panel text to white */
+  text-align: center; /* centered text */
+}
 
+body{
+  background-color: #D8BFD8; /* changed background color to lavender */
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+h1{
+  text-align: center; /* centered icons */
+}
